@@ -1,0 +1,7 @@
+.page-footer, .page-header{
+    background-color:#009688 !important;
+    color: #fff;
+}
+.page-header{
+    padding-top: 10px;
+}
